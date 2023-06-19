@@ -145,14 +145,14 @@ body{
 
 .section1 .perfil1 .contact a:hover {
   /*color: rgb(13, 13, 116);*/
-  color: #F26D3D;
+  color: #0C183A;
   transform: scale(1.2em);
   font-weight: 400;
 }
 
 .section1 .perfil1 .contact i:hover {
   /*color: rgb(13, 13, 116);*/
-  color: #F26D3D;
+  color: #0C183A;
   font-size: 24px;
 }
 
@@ -180,20 +180,20 @@ body{
 
 .social .social-item a:hover {
   /*color: rgb(13, 13, 116);*/
-  color: #F26D3D;
+  color: #0C183A;
   transform: scale(1.2em);
   font-weight: 400;
 }
 
 .social .social-item i:hover {
   /*color: rgb(13, 13, 116);*/
-  color: #F26D3D;
+  color: #0C183A;
   transform: scale(1.2em);
 }
 
 .textlista1:hover {
   /*color: rgb(13, 13, 116);*/
-  color: #F26D3D;
+  color: #0C183A;
   transform: scale(1.2em);
   font-weight: 300;
 }
@@ -523,8 +523,7 @@ scale: 1;
   /*FOOTER*/
 
   .footerbckg{
-   /*background-color: #c9daf7;*/
-    background-color: #F26D3D;
+    background-color:#0C183A;
     height: 10%;
     justify-content: center;
     margin-top: 2em;
